@@ -1,4 +1,6 @@
 {
+  
+  "type": "module",
   "name": "simple-api-expressjs",
   "version": "1.0.0",
   "description": "",
